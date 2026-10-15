@@ -1,0 +1,63 @@
+# ==========================================
+# Diccionario de Datos / Mapeo de Encuesta
+# ==========================================
+
+# 1. Renombramiento de Columnas (Raw -> Clean)
+column_mappings:
+  "ID de Respuesta": "id_encuesta"
+  "Marca temporal": "fecha_encuesta"
+  "1. ¿Cuál es su género?": "genero"
+  "2. Indique su edad en años": "edad"
+  "3. Máximo nivel educativo alcanzado": "nivel_educativo"
+  "4. ¿Cómo calificaría la situación económica actual?": "evaluacion_economia"
+  "5. ¿Qué tan de acuerdo está con la siguiente afirmación: 'El país va en la dirección correcta'?": "direccion_pais_acuerdo"
+  "6. ¿Cuáles de los siguientes considera que son los principales problemas del país? (Puede elegir más de uno)": "problemas_principales"
+  "7. ¿Tiene alguna sugerencia para solucionar alguno de los problemas mencionados? ¿Cuál?": "sugerencias_soluciones"
+
+# 2. Recodificación de Valores
+value_mappings:
+  genero:
+    "Femenino": 1
+    "Masculino": 2
+    "No binario / Otro": 3
+    "Prefiero no decirlo": 99
+  
+  nivel_educativo:
+    "Hasta primario completo": 1
+    "Secundario incompleto": 2
+    "Secundario completo": 3
+    "Terciario/Universitario incompleto": 4
+    "Terciario/Universitario completo": 5
+  
+  evaluacion_economia:
+    "Muy mala": 1
+    "Mala": 2
+    "Regular": 3
+    "Buena": 4
+    "Muy buena": 5
+    "Ns/Nc": 99
+
+  direccion_pais_acuerdo:
+    "Totalmente en desacuerdo": 1
+    "Algo en desacuerdo": 2
+    "Ni de acuerdo ni en desacuerdo": 3
+    "Algo de acuerdo": 4
+    "Totalmente de acuerdo": 5
+    "Ns/Nc": 99
+
+# 3. Preguntas de Respuesta Múltiple
+multiple_choice:
+  problemas_principales:
+    separator: ", "
+    prefix: "prob"
+    options:
+      - "Inflación"
+      - "Inseguridad"
+      - "Desempleo"
+      - "Corrupción"
+      - "Pobreza"
+      - "Educación"
+
+# 4. Preguntas abiertas (Para derivar a codificación manual o análisis PLN)
+open_answer:
+  - sugerencias_soluciones

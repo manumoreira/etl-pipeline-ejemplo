@@ -1,0 +1,151 @@
+id_encuesta,fecha_encuesta,genero,edad,nivel_educativo,evaluacion_economia,direccion_pais_acuerdo,problemas_principales,sugerencias_soluciones,genero_cod,nivel_educativo_cod,evaluacion_economia_cod,direccion_pais_acuerdo_cod,prob_inflacion,prob_inseguridad,prob_desempleo,prob_corrupcion,prob_pobreza,prob_educacion
+f22eb4f6,2026-09-29 12:47:34,Femenino,21.0,Terciario/universitario incompleto,Buena,Ni de acuerdo ni en desacuerdo,"Inseguridad,Desempleo",Podía psoe puesto cuenta.,1.0,,4.0,3.0,0,0,0,0,0,0
+d3c6f12f,2026-10-01 10:21:09,Prefiero no decirlo,73.0,Terciario/universitario incompleto,Buena,Ns/nc,"Pobreza,Corrupción",Toda ser aquella.,99.0,,4.0,,0,0,0,0,0,0
+a6ca028b,2026-09-25 12:43:05,Masculino,55.0,Hasta primario completo,Regular,Algo en desacuerdo,Educación,Formas tipos aquí izquierda lugar gente en.,2.0,1.0,3.0,2.0,0,0,0,0,0,1
+529b45f5,2026-09-18 13:53:32,Femenino,46.0,Terciario/universitario completo,Muy mala,Totalmente en desacuerdo,"Inseguridad, Desempleo, Inflación",Allí causa primero he vino.,1.0,,1.0,1.0,1,1,1,0,0,0
+ef9a41ae,2026-10-11 12:25:45,Masculino,76.0,Secundario incompleto,Regular,Algo de acuerdo,"Inseguridad, Educación",,2.0,2.0,3.0,4.0,0,1,0,0,0,1
+b040acec,2026-10-03 00:32:37,Masculino,37.0,Hasta primario completo,Buena,Totalmente de acuerdo,"Inseguridad, Desempleo",,2.0,1.0,4.0,5.0,0,1,1,0,0,0
+37d44f43,2026-10-13 09:42:36,No binario / otro,50.0,Hasta primario completo,Regular,Algo de acuerdo,Desempleo,,,1.0,3.0,4.0,0,0,1,0,0,0
+02d0e2bd,2026-09-19 12:39:14,Prefiero no decirlo,69.0,Terciario/universitario incompleto,Ns/nc,Algo de acuerdo,"Inseguridad,Pobreza",Investigación demás palabras prueba calidad iglesia miedo.,99.0,,,4.0,0,0,0,0,0,0
+f928f9e2,2026-10-10 06:19:03,Masculino,,Terciario/universitario incompleto,Ns/nc,Totalmente en desacuerdo,"Inflación, Corrupción, Pobreza",Fecha aun el don llama.,2.0,,,1.0,1,0,0,1,1,0
+120c4a67,2026-10-05 00:23:03,Femenino,47.0,Secundario incompleto,Muy mala,Algo de acuerdo,"Pobreza, Inflación, Educación",,1.0,2.0,1.0,4.0,1,0,0,0,1,1
+5e322e72,2026-10-13 02:35:07,Masculino,50.0,Terciario/universitario completo,Ns/nc,Ns/nc,"Educación, Desempleo, Corrupción",Alguien lucha creación.,2.0,,,,0,0,1,1,0,1
+bd51f031,2026-10-15 07:43:35,Masculino,69.0,Hasta primario completo,Ns/nc,Ns/nc,"Pobreza,  Todo está mal",Pequeño embargo actitud persona grupo pueblo.,2.0,1.0,,,0,0,0,0,1,0
+c76b7aaa,2026-09-15 22:06:13,Femenino,68.0,Secundario incompleto,Buena,Ns/nc,Corrupción,,1.0,2.0,4.0,,0,0,0,1,0,0
+944b877d,2026-09-30 13:03:07,Masculino,35.0,Hasta primario completo,Mala,Algo de acuerdo,"Inflación,Desempleo,Inseguridad",Actitud sus peor vivir resultado bien.,2.0,1.0,2.0,4.0,0,0,0,0,0,0
+0d2598f9,2026-09-27 22:45:08,No binario / otro,45.0,Secundario incompleto,Ns/nc,Algo de acuerdo,Educación,Sangre solución su fiscal abril defensa nuestros.,,2.0,,4.0,0,0,0,0,0,1
+bd5d383a,2026-09-16 10:23:30,Masculino,26.0,Terciario/universitario incompleto,Muy mala,Algo de acuerdo,"Desempleo, Pobreza",Buenos aire dice tarde recursos ayuda.,2.0,,1.0,4.0,0,0,1,0,1,0
+e1e2a662,2026-10-13 22:23:08,Masculino,63.0,Secundario incompleto,Regular,Algo en desacuerdo,"Educación, Inflación, Desempleo",Persona minutos grupos ni.,2.0,2.0,3.0,2.0,1,0,1,0,0,1
+f94c2595,2026-09-21 00:14:02,Masculino,33.0,Secundario completo,Regular,Ns/nc,"Desempleo,Inflación,Pobreza",Señora electoral casi sólo pueda.,2.0,3.0,3.0,,0,0,0,0,0,0
+a3abb044,2026-09-23 16:49:21,Prefiero no decirlo,77.0,Terciario/universitario incompleto,Ns/nc,Algo en desacuerdo,Desempleo,Deja alrededor armas juego ante.,99.0,,,2.0,0,0,1,0,0,0
+f22b2be4,2026-10-10 05:51:19,Masculino,83.0,Terciario/universitario completo,Muy buena,Totalmente de acuerdo,"Educación,Desempleo,Inflación",,2.0,,5.0,5.0,0,0,0,0,0,0
+cca1106a,2026-09-19 19:13:01,Femenino,78.0,Secundario completo,Muy buena,Algo de acuerdo,"Inflación,Educación,Desempleo,Ns/Nc",Felipe fondo espacio quizá lleva mayores.,1.0,3.0,5.0,4.0,0,0,0,0,0,0
+532708bd,2026-10-14 03:29:32,No binario / otro,34.0,Secundario incompleto,Regular,Totalmente de acuerdo,Educación,,,2.0,3.0,5.0,0,0,0,0,0,1
+635c938a,2026-09-17 12:46:58,No binario / otro,85.0,Secundario incompleto,Ns/nc,Totalmente de acuerdo,"Desempleo,Pobreza",Mantener u oficial finalmente españa llegó.,,2.0,,5.0,0,0,0,0,0,0
+b9219398,2026-09-26 22:22:02,Prefiero no decirlo,61.0,Hasta primario completo,Mala,Algo en desacuerdo,"Inseguridad, Pobreza, Corrupción",Vía aún ambiente cerca has.,99.0,1.0,2.0,2.0,0,1,0,1,1,0
+765559a1,2026-09-27 06:15:57,No binario / otro,78.0,Hasta primario completo,Mala,Ni de acuerdo ni en desacuerdo,Inseguridad,Tal siguiente encontrar fuerzas.,,1.0,2.0,3.0,0,1,0,0,0,0
+78b07a6f,2026-10-08 11:53:23,Masculino,19.0,Terciario/universitario incompleto,Buena,Algo de acuerdo,"Pobreza,Educación,Corrupción",Obra república aumento nunca.,2.0,,4.0,4.0,0,0,0,0,0,0
+8317847a,2026-09-22 05:52:17,Prefiero no decirlo,62.0,Secundario incompleto,Ns/nc,Ni de acuerdo ni en desacuerdo,Educación,Tomar pp empresa propuesta cinco muy paciente línea.,99.0,2.0,,3.0,0,0,0,0,0,1
+e4c23003,2026-10-04 22:57:51,Femenino,37.0,Secundario incompleto,Muy mala,Ns/nc,"Educación,Corrupción",,1.0,2.0,1.0,,0,0,0,0,0,0
+c20c6ed1,2026-10-11 03:03:55,Masculino,51.0,Terciario/universitario incompleto,Mala,Ns/nc,"Desempleo, Educación, Inseguridad",,2.0,,2.0,,0,1,1,0,0,1
+7af915b3,2026-09-20 11:30:55,No binario / otro,50.0,Hasta primario completo,Buena,Totalmente en desacuerdo,"Pobreza, Corrupción, Inseguridad",Conocimiento ayuda experiencia fueron falta.,,1.0,4.0,1.0,0,1,0,1,1,0
+81676ea3,2026-10-07 08:50:39,Masculino,,Terciario/universitario incompleto,Ns/nc,Algo de acuerdo,"Inflación,Pobreza",Cine tales dirección un principal.,2.0,,,4.0,0,0,0,0,0,0
+20eeb168,2026-10-11 12:51:06,Masculino,33.0,Secundario completo,Muy buena,Totalmente en desacuerdo,"Corrupción, Pobreza",,2.0,3.0,5.0,1.0,0,0,0,1,1,0
+70c1887d,2026-09-29 09:27:05,Masculino,34.0,Hasta primario completo,Regular,Ns/nc,"Pobreza,Ns/Nc",Izquierda lado igual proceso gente pablo.,2.0,1.0,3.0,,0,0,0,0,0,0
+628bcbd0,2026-10-01 12:43:31,No binario / otro,,Terciario/universitario incompleto,Muy mala,Algo en desacuerdo,Pobreza,,,,1.0,2.0,0,0,0,0,1,0
+102adfdd,2026-10-14 22:35:42,No binario / otro,41.0,Hasta primario completo,Muy mala,Totalmente de acuerdo,"Educación,Inflación,Inseguridad",Centro último presidente vista.,,1.0,1.0,5.0,0,0,0,0,0,0
+4dc8f967,2026-10-08 01:43:38,Prefiero no decirlo,83.0,Terciario/universitario completo,Ns/nc,Ni de acuerdo ni en desacuerdo,"Inflación,Pobreza,Educación",,99.0,,,3.0,0,0,0,0,0,0
+f00f03b6,2026-10-03 06:50:50,Masculino,82.0,Terciario/universitario incompleto,Ns/nc,Algo de acuerdo,"Desempleo, Pobreza, Corrupción",Control sido curso u formas incluso de.,2.0,,,4.0,0,0,1,1,1,0
+09d4db0e,2026-10-01 05:04:48,Femenino,66.0,Secundario incompleto,Regular,Ni de acuerdo ni en desacuerdo,"Educación,Desempleo,Corrupción",,1.0,2.0,3.0,3.0,0,0,0,0,0,0
+e42c94c2,2026-10-05 10:01:48,Femenino,68.0,Secundario incompleto,Buena,Algo en desacuerdo,"Desempleo, Pobreza, Educación",Última revolución sentido fiscal palabra.,1.0,2.0,4.0,2.0,0,0,1,0,1,1
+51df4d9f,2026-09-20 00:34:04,Prefiero no decirlo,49.0,Secundario completo,Muy mala,Totalmente de acuerdo,"Inflación,Educación",Diciembre tenían hubo sabía zonas.,99.0,3.0,1.0,5.0,0,0,0,0,0,0
+6172efe6,2026-10-13 15:17:33,Femenino,51.0,Terciario/universitario completo,Buena,Ns/nc,"Educación, Desempleo, Inseguridad,  Todo está mal",Norte llegado semanas.,1.0,,4.0,,0,1,1,0,0,1
+550cd29a,2026-10-08 19:35:41,Femenino,83.0,Secundario incompleto,Regular,Ns/nc,"Inseguridad,Inflación",Años había iglesia clase.,1.0,2.0,3.0,,0,0,0,0,0,0
+726561bd,2026-09-22 04:31:29,No binario / otro,,Secundario incompleto,Muy mala,Totalmente de acuerdo,"Desempleo, Inflación",,,2.0,1.0,5.0,1,0,1,0,0,0
+a931372b,2026-09-28 22:58:16,Femenino,47.0,Secundario completo,Regular,Totalmente de acuerdo,"Desempleo, Corrupción",Plazo queda palabra ir consumo horas ideas.,1.0,3.0,3.0,5.0,0,0,1,1,0,0
+10abced7,2026-10-08 15:57:20,Masculino,29.0,Secundario completo,Ns/nc,Totalmente de acuerdo,Desempleo,,2.0,3.0,,5.0,0,0,1,0,0,0
+c3d22e37,2026-09-26 08:04:28,Prefiero no decirlo,67.0,Terciario/universitario completo,Regular,Ns/nc,"Educación,Desempleo,Pobreza",Con ese rey consecuencia.,99.0,,3.0,,0,0,0,0,0,0
+4fd22144,2026-10-08 16:52:10,Femenino,38.0,Secundario completo,Muy buena,Ni de acuerdo ni en desacuerdo,"Desempleo, Inflación, Inseguridad",Zona mucha demasiado américa película precios.,1.0,3.0,5.0,3.0,1,1,1,0,0,0
+ca686989,2026-10-14 16:54:34,Femenino,42.0,Hasta primario completo,Muy buena,Totalmente de acuerdo,"Pobreza,Desempleo,Educación",Niños modelo fue algún efecto hoy.,1.0,1.0,5.0,5.0,0,0,0,0,0,0
+d0183889,2026-09-27 13:34:21,Prefiero no decirlo,33.0,Terciario/universitario incompleto,Muy buena,Algo en desacuerdo,"Corrupción, Desempleo",Distintos estilo noviembre.,99.0,,5.0,2.0,0,0,1,1,0,0
+d04abdd7,2026-09-24 12:58:01,Femenino,18.0,Terciario/universitario incompleto,Regular,Totalmente de acuerdo,"Inflación,Ns/Nc",América amigo cada.,1.0,,3.0,5.0,0,0,0,0,0,0
+f007565a,2026-09-16 06:44:14,Femenino,39.0,Secundario completo,Muy buena,Totalmente de acuerdo,"Desempleo, Corrupción, Pobreza",Tengo recuerdo suelo capacidad club.,1.0,3.0,5.0,5.0,0,0,1,1,1,0
+34c2261b,2026-09-28 04:22:15,Prefiero no decirlo,,Secundario completo,Muy mala,Totalmente en desacuerdo,Pobreza,,99.0,3.0,1.0,1.0,0,0,0,0,1,0
+b3b9c59e,2026-09-23 19:18:19,Femenino,26.0,Secundario completo,Regular,Ni de acuerdo ni en desacuerdo,"Inseguridad,Ns/Nc",López seguro ante iba aquel efecto pudo.,1.0,3.0,3.0,3.0,0,0,0,0,0,0
+55e8b428,2026-10-12 00:05:40,Masculino,47.0,Secundario incompleto,Buena,Totalmente de acuerdo,"Educación, Inflación",Haya metros punto victoria sentido actual dinero.,2.0,2.0,4.0,5.0,1,0,0,0,0,1
+a38a6244,2026-09-17 14:12:25,Masculino,,Terciario/universitario completo,Ns/nc,Algo de acuerdo,"Educación, Todo está mal",,2.0,,,4.0,0,0,0,0,0,1
+473f82ac,2026-10-01 21:15:19,Femenino,18.0,Hasta primario completo,Mala,Totalmente de acuerdo,"Inflación,Pobreza,Corrupción,Ns/Nc",Alrededor quién área octubre posibilidad noche sector.,1.0,1.0,2.0,5.0,0,0,0,0,0,0
+284b9694,2026-10-04 06:13:36,No binario / otro,80.0,Hasta primario completo,Buena,Totalmente de acuerdo,"Inseguridad, Educación, Inflación",,,1.0,4.0,5.0,1,1,0,0,0,1
+bf82af62,2026-09-18 18:44:11,No binario / otro,65.0,Terciario/universitario completo,Muy buena,Algo de acuerdo,"Educación, Corrupción",Rodríguez unión objetivo mucho tras capaz.,,,5.0,4.0,0,0,0,1,0,1
+83d81ea1,2026-09-27 06:32:17,No binario / otro,,Secundario completo,Muy buena,Totalmente de acuerdo,"Inseguridad, Pobreza, Educación",Relaciones madrid premio pablo objeto.,,3.0,5.0,5.0,0,1,0,0,1,1
+3cca857a,2026-10-15 00:48:00,Masculino,81.0,Terciario/universitario incompleto,Regular,Totalmente de acuerdo,"Educación, Pobreza",,2.0,,3.0,5.0,0,0,0,0,1,1
+c6139892,2026-10-09 21:02:39,No binario / otro,35.0,Secundario completo,Regular,Algo de acuerdo,"Desempleo, Educación, Corrupción",Casos está esta principales mucho sueño cuatro.,,3.0,3.0,4.0,0,0,1,1,0,1
+ad2a24b4,2026-10-08 13:22:19,Masculino,61.0,Terciario/universitario completo,Regular,Ni de acuerdo ni en desacuerdo,"Desempleo, Inseguridad, Pobreza",,2.0,,3.0,3.0,0,1,1,0,1,0
+f85d4c20,2026-09-21 03:05:29,Masculino,28.0,Hasta primario completo,Muy buena,Algo de acuerdo,"Pobreza,Inseguridad,Educación",,2.0,1.0,5.0,4.0,0,0,0,0,0,0
+d0459a5b,2026-10-03 05:00:00,No binario / otro,,Secundario incompleto,Ns/nc,Totalmente en desacuerdo,"Corrupción,Inseguridad,Pobreza",Fecha casi naturaleza efectos.,,2.0,,1.0,0,0,0,0,0,0
+aa523d4a,2026-09-24 05:45:55,Prefiero no decirlo,66.0,Secundario completo,Mala,Totalmente en desacuerdo,"Inflación, Pobreza",Creo varias derecho términos unión.,99.0,3.0,2.0,1.0,1,0,0,0,1,0
+81d42c4d,2026-09-29 12:39:40,Prefiero no decirlo,61.0,Hasta primario completo,Mala,Algo de acuerdo,Pobreza,Torno llegó existe área baja mucho especial.,99.0,1.0,2.0,4.0,0,0,0,0,1,0
+6ed53e79,2026-10-06 15:13:37,Femenino,38.0,Secundario completo,Mala,Ni de acuerdo ni en desacuerdo,"Pobreza,Inseguridad,Corrupción",Mañana c visita además van.,1.0,3.0,2.0,3.0,0,0,0,0,0,0
+032c8c7a,2026-09-20 07:13:22,Masculino,45.0,Hasta primario completo,Muy mala,Ni de acuerdo ni en desacuerdo,Inflación,Datos democracia lenguaje línea hubo supuesto.,2.0,1.0,1.0,3.0,1,0,0,0,0,0
+aea659ee,2026-10-07 00:29:10,,69.0,Terciario/universitario completo,Regular,Algo de acuerdo,Pobreza,Vez siglo están características muchas.,,,3.0,4.0,0,0,0,0,1,0
+e91888d0,2026-10-06 01:16:38,,76.0,Terciario/universitario completo,Ns/nc,Ns/nc,Corrupción,Población marco estos quien cierta.,,,,,0,0,0,1,0,0
+9ee73e7e,2026-10-08 01:10:31,No binario / otro,57.0,Secundario incompleto,Regular,Algo de acuerdo,"Inflación, Corrupción",,,2.0,3.0,4.0,1,0,0,1,0,0
+d0629eaa,2026-10-05 12:07:26,Prefiero no decirlo,29.0,Terciario/universitario incompleto,Buena,Algo de acuerdo,Pobreza,Vuelve natural comenzó quiere c lenguaje luz.,99.0,,4.0,4.0,0,0,0,0,1,0
+6f858394,2026-09-26 19:05:08,Femenino,28.0,Terciario/universitario incompleto,Muy mala,Ns/nc,"Inflación, Desempleo, Corrupción",Acto da da dan pregunta madrid tema hacia.,1.0,,1.0,,1,0,1,1,0,0
+0c7d7098,2026-09-15 23:12:31,Masculino,82.0,Secundario completo,Muy buena,Ni de acuerdo ni en desacuerdo,"Corrupción, Pobreza",Condiciones lleva puso luego vivir podrá secretario.,2.0,3.0,5.0,3.0,0,0,0,1,1,0
+67a44c58,2026-10-02 07:49:43,Prefiero no decirlo,20.0,Secundario incompleto,Mala,Totalmente en desacuerdo,"Educación, Inflación",Plaza lucha fiscal carne.,99.0,2.0,2.0,1.0,1,0,0,0,0,1
+cae253ba,2026-09-25 12:15:40,Masculino,61.0,Secundario incompleto,Muy buena,Algo de acuerdo,"Educación,Inseguridad,Inflación",,2.0,2.0,5.0,4.0,0,0,0,0,0,0
+5283c448,2026-09-20 22:39:50,Masculino,21.0,Secundario completo,Muy buena,Algo en desacuerdo,"Educación,Desempleo,Inseguridad",Tenían obstante niño capaz unos decía diversas.,2.0,3.0,5.0,2.0,0,0,0,0,0,0
+59f592c8,2026-09-19 13:22:33,Femenino,39.0,Hasta primario completo,Buena,Algo de acuerdo,"Inflación, Educación, Corrupción",,1.0,1.0,4.0,4.0,1,0,0,1,0,1
+70053a94,2026-10-10 19:08:32,No binario / otro,28.0,Terciario/universitario incompleto,Regular,Totalmente de acuerdo,Inflación,Dan éxito producción argentina metros antes.,,,3.0,5.0,1,0,0,0,0,0
+a2e1380d,2026-09-18 18:31:40,No binario / otro,52.0,Terciario/universitario completo,Buena,Algo de acuerdo,"Inseguridad, Desempleo, Pobreza",Lo frente p misma.,,,4.0,4.0,0,1,1,0,1,0
+f99c2397,2026-10-06 03:20:04,Femenino,20.0,Terciario/universitario incompleto,Buena,Totalmente de acuerdo,"Corrupción, Desempleo, Pobreza",,1.0,,4.0,5.0,0,0,1,1,1,0
+348d52d7,2026-10-13 20:28:22,Masculino,84.0,Terciario/universitario completo,Ns/nc,Totalmente en desacuerdo,Inseguridad,Local acción siendo fondo dado.,2.0,,,1.0,0,1,0,0,0,0
+9961611e,2026-09-25 15:53:03,Prefiero no decirlo,79.0,Terciario/universitario completo,Ns/nc,Totalmente en desacuerdo,"Pobreza, Desempleo, Corrupción",Nadie idea ocasión tu viejo.,99.0,,,1.0,0,0,1,1,1,0
+cb78a9d9,2026-09-15 11:11:37,Femenino,45.0,Terciario/universitario completo,Muy mala,Totalmente en desacuerdo,"Inseguridad, Inflación, La corrupción",Nacional siguientes mucho operación.,1.0,,1.0,1.0,1,1,0,0,0,0
+ab937846,2026-10-10 10:22:30,Femenino,61.0,Terciario/universitario completo,Regular,Totalmente en desacuerdo,"Pobreza,Desempleo",,1.0,,3.0,1.0,0,0,0,0,0,0
+3ef0a0a8,2026-10-06 23:59:53,Masculino,66.0,Terciario/universitario completo,Muy mala,Ni de acuerdo ni en desacuerdo,"Corrupción,Pobreza,Educación",Demasiado política nuestra final.,2.0,,1.0,3.0,0,0,0,0,0,0
+9c843038,2026-10-12 23:37:52,No binario / otro,53.0,Secundario incompleto,Regular,Totalmente de acuerdo,Inseguridad,Proyecto hacia obstante.,,2.0,3.0,5.0,0,1,0,0,0,0
+4d7ff449,2026-10-01 02:52:18,Masculino,39.0,Secundario completo,Muy buena,Algo de acuerdo,"Corrupción, Pobreza, Desempleo",,2.0,3.0,5.0,4.0,0,0,1,1,1,0
+f547fd1d,2026-10-01 13:20:42,Masculino,39.0,Secundario incompleto,Buena,Algo en desacuerdo,"Corrupción,Educación,Inflación",Aumento pacientes vez trata junto m.,2.0,2.0,4.0,2.0,0,0,0,0,0,0
+5c018a71,2026-10-04 16:14:58,,75.0,Terciario/universitario completo,Muy buena,Totalmente en desacuerdo,Corrupción,Francisco materia libertad contenido mil.,,,5.0,1.0,0,0,0,1,0,0
+e71124e9,2026-09-27 22:42:12,No binario / otro,76.0,Terciario/universitario incompleto,Muy mala,Ni de acuerdo ni en desacuerdo,"Corrupción, Inflación",Tengo mientras esos libre.,,,1.0,3.0,1,0,0,1,0,0
+6e3f863a,2026-09-28 03:09:26,Masculino,44.0,Secundario completo,Muy mala,Algo de acuerdo,Desempleo,,2.0,3.0,1.0,4.0,0,0,1,0,0,0
+9ac3b582,2026-09-24 17:55:44,Masculino,55.0,Hasta primario completo,Muy mala,Algo en desacuerdo,"Inseguridad, Desempleo, Corrupción",Lado vivir zona fin dado duda j.,2.0,1.0,1.0,2.0,0,1,1,1,0,0
+db825044,2026-09-16 13:22:08,Masculino,49.0,Hasta primario completo,Buena,Algo en desacuerdo,"Pobreza, Inseguridad, Educación",,2.0,1.0,4.0,2.0,0,1,0,0,1,1
+b6a4c7b9,2026-10-10 09:57:11,Prefiero no decirlo,84.0,Terciario/universitario incompleto,Regular,Ni de acuerdo ni en desacuerdo,Inflación,Tan sectores mujer aunque.,99.0,,3.0,3.0,1,0,0,0,0,0
+48fc31f9,2026-09-16 12:11:54,No binario / otro,81.0,Hasta primario completo,Buena,Algo en desacuerdo,"Corrupción,Educación, Todo está mal",Económica estos felipe mar.,,1.0,4.0,2.0,0,0,0,0,0,0
+c94ff042,2026-09-28 10:01:58,Prefiero no decirlo,54.0,Hasta primario completo,Regular,Algo en desacuerdo,"Desempleo,Educación",,99.0,1.0,3.0,2.0,0,0,0,0,0,0
+7ac934fd,2026-10-11 22:52:35,No binario / otro,,Secundario incompleto,Muy buena,Ns/nc,Educación,Yo toma mientras entrar económica abril fuerte historia.,,2.0,5.0,,0,0,0,0,0,1
+598937ec,2026-09-16 11:05:38,Masculino,59.0,Secundario completo,Regular,Ns/nc,Pobreza,,2.0,3.0,3.0,,0,0,0,0,1,0
+2e9468a8,2026-09-18 21:43:34,No binario / otro,28.0,Terciario/universitario incompleto,Muy buena,Ns/nc,Inflación,Estados éxito las esfuerzo texto nivel.,,,5.0,,1,0,0,0,0,0
+fea87502,2026-09-19 21:27:32,Masculino,19.0,Secundario completo,Regular,Ns/nc,"Inflación,Desempleo,Pobreza",,2.0,3.0,3.0,,0,0,0,0,0,0
+9bc9ccc4,2026-09-24 07:10:57,Femenino,19.0,Terciario/universitario incompleto,Muy mala,Totalmente en desacuerdo,"Desempleo,Inflación,Pobreza, Todo está mal",Ellos si a dolor dinero.,1.0,,1.0,1.0,0,0,0,0,0,0
+948d4e80,2026-09-25 09:32:10,Femenino,26.0,Secundario incompleto,Muy buena,Algo de acuerdo,"Desempleo,Educación",Cosas república peso derecho aumento.,1.0,2.0,5.0,4.0,0,0,0,0,0,0
+43ac9dae,2026-10-12 05:27:54,Masculino,44.0,Secundario incompleto,Regular,Algo en desacuerdo,Corrupción,,2.0,2.0,3.0,2.0,0,0,0,1,0,0
+8386e01d,2026-09-23 08:23:17,Masculino,76.0,Hasta primario completo,Buena,Totalmente en desacuerdo,Desempleo,,2.0,1.0,4.0,1.0,0,0,1,0,0,0
+b4562d49,2026-09-18 11:29:43,Prefiero no decirlo,79.0,Hasta primario completo,Ns/nc,Ni de acuerdo ni en desacuerdo,"Inseguridad,Desempleo",Artículo lenguaje propio necesario siguiente claro educación.,99.0,1.0,,3.0,0,0,0,0,0,0
+d510c4a5,2026-10-14 16:04:06,Masculino,24.0,Terciario/universitario completo,Buena,Ni de acuerdo ni en desacuerdo,"Inflación, Corrupción, Inseguridad",Decisión caso mujeres.,2.0,,4.0,3.0,1,1,0,1,0,0
+d8a453c5,2026-09-20 03:06:15,Prefiero no decirlo,67.0,Hasta primario completo,Muy buena,Ni de acuerdo ni en desacuerdo,"Educación, Pobreza",Internacional fondo explicó ver intereses o servicios datos.,99.0,1.0,5.0,3.0,0,0,0,0,1,1
+bad1ec92,2026-09-27 07:21:56,No binario / otro,29.0,Terciario/universitario incompleto,Muy buena,Ns/nc,"Corrupción,Pobreza,Desempleo",Humanos adelante actual aspectos puntos posibilidades.,,,5.0,,0,0,0,0,0,0
+20a9da6b,2026-10-07 20:30:53,,,Terciario/universitario completo,Muy mala,Ns/nc,"Desempleo,Inflación",Con humano mismos siendo tan al.,,,1.0,,0,0,0,0,0,0
+d2ede538,2026-10-02 09:43:27,Femenino,57.0,Hasta primario completo,Muy mala,Algo de acuerdo,Inseguridad,Siendo tengo carrera esos razones.,1.0,1.0,1.0,4.0,0,1,0,0,0,0
+23e52e1a,2026-10-07 12:27:49,Prefiero no decirlo,67.0,Secundario completo,Muy buena,Ni de acuerdo ni en desacuerdo,"Corrupción, Desempleo",Conocimiento padre compañía perdido.,99.0,3.0,5.0,3.0,0,0,1,1,0,0
+fb11a478,2026-10-08 00:12:44,Masculino,51.0,Terciario/universitario incompleto,Regular,Ni de acuerdo ni en desacuerdo,"Inseguridad, Educación",Cual sabe joven república falta vuelta ex.,2.0,,3.0,3.0,0,1,0,0,0,1
+007e8787,2026-09-18 00:08:07,Femenino,30.0,Secundario incompleto,Muy buena,Algo en desacuerdo,Educación,Fuerte abril te manera mayo sí.,1.0,2.0,5.0,2.0,0,0,0,0,0,1
+4690a565,2026-10-10 19:47:53,No binario / otro,,Secundario incompleto,Muy mala,Totalmente de acuerdo,"Pobreza, Educación, Inflación, Ns/Nc",Mismos propuesta ejército suficiente unos familia primero.,,2.0,1.0,5.0,1,0,0,0,1,1
+f89c0118,2026-10-11 11:09:39,No binario / otro,53.0,Terciario/universitario incompleto,Regular,Totalmente en desacuerdo,Pobreza,Fácil mejor año estudio contrario experiencia.,,,3.0,1.0,0,0,0,0,1,0
+58df5e4b,2026-09-24 06:43:16,No binario / otro,40.0,Terciario/universitario incompleto,Buena,Ni de acuerdo ni en desacuerdo,"Pobreza,Inseguridad,Inflación",Puntos miedo gran humana sociedad.,,,4.0,3.0,0,0,0,0,0,0
+22427eaa,2026-10-11 05:54:55,Prefiero no decirlo,32.0,Terciario/universitario incompleto,Muy mala,Ni de acuerdo ni en desacuerdo,Educación,,99.0,,1.0,3.0,0,0,0,0,0,1
+bae18f15,2026-10-13 10:26:05,Masculino,57.0,Terciario/universitario completo,Mala,Ni de acuerdo ni en desacuerdo,"Inseguridad, Todo está mal",Conseguir lado crisis toda grandes tema través este.,2.0,,2.0,3.0,0,1,0,0,0,0
+b832d013,2026-10-12 04:47:15,No binario / otro,40.0,Hasta primario completo,Muy buena,Ni de acuerdo ni en desacuerdo,Corrupción,Siempre familia primer libro servicio ninguna.,,1.0,5.0,3.0,0,0,0,1,0,0
+85d3eadf,2026-10-10 07:02:59,No binario / otro,54.0,Secundario completo,Muy buena,Ni de acuerdo ni en desacuerdo,"Inflación,Educación,La corrupción",Amigo estudio contra sean.,,3.0,5.0,3.0,0,0,0,0,0,0
+274166a1,2026-10-12 14:43:59,Masculino,,Hasta primario completo,Buena,Algo de acuerdo,Educación,Nuevos materia tener autor entrar crecimiento destino.,2.0,1.0,4.0,4.0,0,0,0,0,0,1
+1fc41d06,2026-09-22 05:48:45,Femenino,39.0,Secundario incompleto,Muy mala,Ni de acuerdo ni en desacuerdo,Corrupción,Frente cuestión apoyo vista suficiente.,1.0,2.0,1.0,3.0,0,0,0,1,0,0
+7e64b8fe,2026-09-21 18:15:41,No binario / otro,,Terciario/universitario incompleto,Ns/nc,Ni de acuerdo ni en desacuerdo,Pobreza,Está llega teoría estaban les pesetas poco.,,,,3.0,0,0,0,0,1,0
+e36f8311,2026-09-24 08:12:38,No binario / otro,44.0,Terciario/universitario incompleto,Mala,Algo en desacuerdo,"Desempleo,Pobreza,Inflación",,,,2.0,2.0,0,0,0,0,0,0
+c7105e02,2026-09-22 02:23:29,,28.0,Secundario completo,Mala,Totalmente en desacuerdo,"Inseguridad,Pobreza,Educación",,,3.0,2.0,1.0,0,0,0,0,0,0
+22b76c81,2026-10-05 16:13:16,Prefiero no decirlo,79.0,Hasta primario completo,Muy mala,Algo de acuerdo,Educación,Tema trabajadores voz riesgo calle quien.,99.0,1.0,1.0,4.0,0,0,0,0,0,1
+bb8d2f3f,2026-09-21 03:38:20,Prefiero no decirlo,20.0,Secundario completo,Ns/nc,Totalmente de acuerdo,"Corrupción,Inseguridad,Desempleo",Juego grupo importantes estaban muchos fuera otra proceso.,99.0,3.0,,5.0,0,0,0,0,0,0
+a46dfa1f,2026-09-25 22:58:26,Femenino,76.0,Terciario/universitario incompleto,Muy mala,Algo en desacuerdo,"Inflación,Desempleo,Corrupción",Uso sí pequeña permite tomar.,1.0,,1.0,2.0,0,0,0,0,0,0
+501c3bdc,2026-09-22 15:24:16,Prefiero no decirlo,34.0,Hasta primario completo,Mala,Algo en desacuerdo,Inflación,Más juez primero hacia plan.,99.0,1.0,2.0,2.0,1,0,0,0,0,0
+4b855da9,2026-10-10 14:22:34,,73.0,Secundario incompleto,Mala,Algo en desacuerdo,"Corrupción,  Todo está mal",Agua algún etc.,,2.0,2.0,2.0,0,0,0,1,0,0
+67a28a54,2026-10-07 23:07:32,,,Terciario/universitario completo,Muy buena,Ni de acuerdo ni en desacuerdo,"Desempleo,Inflación,Educación",Septiembre hijo vuelta número intereses.,,,5.0,3.0,0,0,0,0,0,0
+4de72ae0,2026-10-06 10:56:01,Masculino,,Terciario/universitario completo,Muy mala,Algo en desacuerdo,"Inflación,Inseguridad",,2.0,,1.0,2.0,0,0,0,0,0,0
+62a351b0,2026-09-23 22:43:29,No binario / otro,69.0,Hasta primario completo,Muy mala,Totalmente en desacuerdo,"Inseguridad, Desempleo, Educación",Actual cinco hemos análisis imágenes fue presidente.,,1.0,1.0,1.0,0,1,1,0,0,1
+7188f3c0,2026-09-23 19:29:11,Femenino,56.0,Secundario completo,Mala,Ni de acuerdo ni en desacuerdo,"Corrupción,Educación,Desempleo",M varias llegar favor importantes formas acto.,1.0,3.0,2.0,3.0,0,0,0,0,0,0
+c439a2d5,2026-10-05 18:44:23,Prefiero no decirlo,,Secundario completo,Muy mala,Totalmente de acuerdo,"Desempleo, Inseguridad",,99.0,3.0,1.0,5.0,0,1,1,0,0,0
+1277362a,2026-09-21 21:43:10,Femenino,,Terciario/universitario incompleto,Mala,Totalmente en desacuerdo,"Educación, Corrupción, Inflación",Quiere tendrá figura estaba ocasión.,1.0,,2.0,1.0,1,0,0,1,0,1
+c25e87e8,2026-09-24 13:21:45,No binario / otro,,Secundario completo,Buena,Totalmente de acuerdo,"Desempleo,Corrupción,Inseguridad",Antonio partidos tras de viaje voz tenían.,,3.0,4.0,5.0,0,0,0,0,0,0
+440f75f5,2026-09-16 04:53:06,Femenino,69.0,Terciario/universitario completo,Buena,Totalmente en desacuerdo,"Inflación,La corrupción",,1.0,,4.0,1.0,0,0,0,0,0,0
+0212379f,2026-10-11 10:15:45,Prefiero no decirlo,35.0,Terciario/universitario completo,Muy mala,Algo en desacuerdo,"Desempleo,Corrupción,Inflación,La corrupción",Construcción c r otras que.,99.0,,1.0,2.0,0,0,0,0,0,0
+afe6b358,2026-10-02 14:16:09,No binario / otro,21.0,Hasta primario completo,Mala,Ni de acuerdo ni en desacuerdo,"Corrupción, Pobreza",Propios cargo época común cuyo partir ella.,,1.0,2.0,3.0,0,0,0,1,1,0
+56cc30a6,2026-10-15 08:36:23,Femenino,72.0,Secundario incompleto,Muy mala,Algo en desacuerdo,Inflación,Carne tan todo a modo ya.,1.0,2.0,1.0,2.0,1,0,0,0,0,0
+f5dea021,2026-10-14 12:10:06,Femenino,36.0,Secundario completo,Muy buena,Algo de acuerdo,"Inseguridad, Pobreza",,1.0,3.0,5.0,4.0,0,1,0,0,1,0
+f80e0607,2026-09-21 12:12:41,Femenino,31.0,Terciario/universitario incompleto,Ns/nc,Algo en desacuerdo,Desempleo,Sigue práctica tenían consumo.,1.0,,,2.0,0,0,1,0,0,0
+35d0f4a3,2026-09-27 03:37:34,Femenino,67.0,Secundario incompleto,Regular,Totalmente en desacuerdo,Inseguridad,Consumo nuevas través oro pensar lucha serán.,1.0,2.0,3.0,1.0,0,1,0,0,0,0
+cf06b6f4,2026-10-05 05:08:25,Masculino,69.0,Secundario incompleto,Mala,Totalmente de acuerdo,"Pobreza,Inflación",Trabajar menor mujer rafael muerto madre.,2.0,2.0,2.0,5.0,0,0,0,0,0,0
+005c9f77,2026-10-05 05:15:05,No binario / otro,41.0,Terciario/universitario incompleto,Regular,Ni de acuerdo ni en desacuerdo,"Corrupción, Inseguridad, Pobreza",,,,3.0,3.0,0,1,0,1,1,0
+efd4b46a,2026-10-06 18:43:03,Prefiero no decirlo,63.0,Secundario completo,Muy buena,Totalmente de acuerdo,"Corrupción,Pobreza",Hacer formación tenían jefe.,99.0,3.0,5.0,5.0,0,0,0,0,0,0
+1ab1532c,2026-10-04 04:41:27,Masculino,62.0,Secundario incompleto,Ns/nc,Totalmente de acuerdo,Inseguridad,,2.0,2.0,,5.0,0,1,0,0,0,0
+d9664008,2026-10-07 02:47:27,Masculino,49.0,Hasta primario completo,Buena,Totalmente de acuerdo,"Desempleo,Inseguridad",Mes derechos régimen cierta.,2.0,1.0,4.0,5.0,0,0,0,0,0,0
