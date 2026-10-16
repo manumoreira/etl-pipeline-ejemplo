@@ -4,6 +4,18 @@ Este repositorio sirve como un ejemplo público, agnóstico y libre de contexto 
 
 El objetivo es proporcionar a investigadores y analistas de datos una arquitectura robusta para automatizar la limpieza, recodificación y estructuración de datos provenientes de plataformas como Google Forms, SurveyMonkey o similares, separando la lógica de negocio del código base mediante archivos de configuración.
 
+## ¿Por qué un ETL?
+
+Es habitual resolver la limpieza de datos con métodos que solucionan la urgencia, pero generan deuda técnica a mediano plazo. Acá abajo algunas razones por las que un ETL puede ayudarte a procesar mejor tus datos.
+
+*   **Garantiza la reproducibilidad:** Los ajustes manuales ("buscar y reemplazar") y las fórmulas ad-hoc en planillas de cálculo borran el rastro metodológico. Un ETL permite que cualquier colega o revisor replique el proceso exacto tiempo después.
+
+*   **Centraliza y audita las reglas:** Combinar un script inicial (ej. SPSS o R) con correcciones manuales posteriores genera versiones contradictorias. Un pipeline documenta de forma estricta qué le ocurrió a cada variable de principio a fin.
+
+*   **Evita la fragilidad ante cambios:** Los scripts con variables "hardcodeadas" se rompen si el formulario cambia una coma o agrega una opción de respuesta. Separar el diccionario de datos (codebook.yml) del código hace que el proceso sea resiliente.
+
+*   **Libera los datos de herramientas específicas:** Limpiar la base exclusivamente con herramientas visuales o BI (como Power Query) deja la lógica atrapada en esa interfaz. Un ETL independiente genera un output limpio que puede ser consumido por cualquier otro software o modelo estadístico.
+
 ## 🏗️ Arquitectura y Estructura del Proyecto
 
 El pipeline sigue un enfoque modular dividido en etapas lógicas de calidad de datos (Bronce, Plata y Oro):
