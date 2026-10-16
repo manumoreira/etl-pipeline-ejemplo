@@ -4,7 +4,7 @@ Este repositorio sirve como un ejemplo público, agnóstico y libre de contexto 
 
 El objetivo es proporcionar a investigadores y analistas de datos una arquitectura robusta para automatizar la limpieza, recodificación y estructuración de datos provenientes de plataformas como Google Forms, SurveyMonkey o similares, separando la lógica de negocio del código base mediante archivos de configuración.
 
-## ¿Por qué un ETL?
+## 🤔 ¿Por qué un ETL?
 
 Es habitual resolver la limpieza de datos con métodos que solucionan la urgencia, pero generan deuda técnica a mediano plazo. Acá abajo algunas razones por las que un ETL puede ayudarte a procesar mejor tus datos.
 
